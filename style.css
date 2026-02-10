@@ -351,8 +351,8 @@ button {
     background: rgba(255, 255, 255, 0.4); /* Frosted glass */
     backdrop-filter: blur(8px);
     width: 887px;
-    height: 190px;
-    padding: 3px;
+    height: auto;
+    padding: 20px;
     border-radius: 30px;
     border: 2px solid white;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
